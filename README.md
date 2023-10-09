@@ -12,6 +12,7 @@ sudo vi /etc/haproxy/haproxy.cfg
 ```
 
 #### Config Snippet to add in the file(IP 172.31.44.104 is the private IP for the instance)
+- This configuration will enable http requests via port 80. Since there is no server to handle the request, the response will be 503
 ```
 frontend http-in
     	bind 172.31.44.104:80
