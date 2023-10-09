@@ -111,7 +111,7 @@ tail -f /var/log/haproxy.log
 
 Finally, Open the public IP or URL on the browser and you will see the below:
 ###### Public IP
-![PUBLIC IP](https://github.com/edwinnduti/HAproxy-Setup-AWS-Ubuntu/blob/master/img/ipScreenshot.png?raw=true)
+![PUBLIC IP](Img/ipScreenshot.png)
 
 ###### Public URL
-![PUBLIC IP](https://github.com/edwinnduti/HAproxy-Setup-AWS-Ubuntu/blob/master/img/urlScreenshot.png?raw=true)
+![PUBLIC IP](Img/urlScreenshot.png)
